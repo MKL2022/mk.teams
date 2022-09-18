@@ -600,3 +600,51 @@ ul li {
 .div_main_nomes {
   margin-top: 150px;
 }
+
+@media (max-width: 400px) {
+  .p_child1 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child2 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child3 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child4 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child5 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .p_child6 {
+    width: auto;
+    height: auto;
+    justify-content: center;
+  }
+}
