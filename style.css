@@ -1,7 +1,7 @@
 body {
   background: #ffff;
   width: 1000px;
-  height: 5650px;
+  height: 7350px;
 }
 
 main {
@@ -220,7 +220,7 @@ ul li {
 .titulo {
   font-size: 45px;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 50px;
   margin-bottom: 0px;
 }
 
@@ -572,6 +572,18 @@ ul li {
 .rapgeek {
   display: block;
   height: 100%;
+}
+
+.div_home2 {
+  margin-bottom: 150px;
+}
+
+.header_bio {
+  margin-top: 150px;
+}
+
+.div_main_nomes {
+  margin-top: 150px;
 }
 
 @media (max-width: 400px) {
