@@ -696,3 +696,39 @@ ul li {
     justify-content: center;
   }
 }
+
+@media (max-width: 400px) {
+  .spear1 {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spear2 {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spear3 {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spear4 {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spear5 {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spear6 {
+    width: 340px;
+  }
+}
